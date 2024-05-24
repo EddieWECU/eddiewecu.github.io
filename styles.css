@@ -121,3 +121,7 @@ footer{
     border-top-color: #ffffff;
     padding: 10px;
 }
+
+footer a{
+    color: #ffffff;
+}
